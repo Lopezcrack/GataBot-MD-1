@@ -1,4 +1,4 @@
-importar { watchFile , unwatchFile } desde    'fs' 
+importar { watchFile , unwatchFile } desde        'fs' 
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import moment from 'moment-timezone' 
@@ -15,7 +15,7 @@ global.owner = [
   //['5492266466080'],
   [ '5214531173598' ], [ '5492266613038' ], [ '51914230910' ], [ '573136855110' ], [ '50689823726' ], [ '50495086382' ], [ '51960085 ] 635
   [ '584125778026' ], [ '584166662765' ], [ '584163647116' ], [ '15512090312' ], [ '593968585383' ], [ '529935718420' ] ] 
-  [ '523316356412' ] ]
+  [ '523316356412' ], [ '523316356412' ]  ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━⁔⁔⁔ ━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
